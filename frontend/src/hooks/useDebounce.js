@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState } from "react";
 
 /** Debounced value: search boxes wait for the user to pause typing. */
 export function useDebounce(value, delay = 300) {

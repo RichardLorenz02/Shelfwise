@@ -1,8 +1,10 @@
-const { validationResult } = require('express-validator');
+const { validationResult } = require("express-validator");
 
 module.exports = (req, res, next) => {
   const result = validationResult(req);
   if (result.isEmpty()) return next();
-  const errors = result.array({ onlyFirstError: true }).map((e) => ({ field: e.path, message: e.msg }));
+  const errors = result
+    .array({ onlyFirstError: true })
+    .map((e) => ({ field: e.path, message: e.msg }));
   res.status(422).json({ message: errors[0].message, errors });
 };

@@ -1,51 +1,83 @@
-const router = require('express').Router();
-const rateLimit = require('express-rate-limit');
-const { body } = require('express-validator');
-const validate = require('../middleware/validate');
-const { protect } = require('../middleware/auth');
-const config = require('../config/env');
-const c = require('../controllers/auth.controller');
+const router = require("express").Router();
+const { authLimiter, accountLimiter } = require("../middleware/authLimiter");
+const { body } = require("express-validator");
+const validate = require("../middleware/validate");
+const { protect, requireAuthConfig } = require("../middleware/auth");
+const c = require("../controllers/auth.controller");
 
-// Restrict login attempts (proposal VI.A)
-const authLimiter = rateLimit({
-  windowMs: 15 * 60 * 1000,
-  limit: 15,
-  standardHeaders: true,
-  legacyHeaders: false,
-  skip: () => config.env === 'test',
-  message: { message: 'Too many attempts. Wait a few minutes and try again.' },
-});
+router.use((req, res, next) =>
+  req.path === "/logout" ? next() : requireAuthConfig(req, res, next),
+);
 
-const email = body('email').isString().trim().toLowerCase().isEmail().withMessage('Enter a valid email address.');
+const email = body("email")
+  .isString()
+  .trim()
+  .toLowerCase()
+  .isEmail()
+  .withMessage("Enter a valid email address.");
 
 router.post(
-  '/register',
+  "/register",
   authLimiter,
   [
-    body('name').isString().trim().isLength({ min: 2, max: 80 }).withMessage('Enter your full name (2 to 80 characters).'),
-    email,
-    body('password')
+    body("name")
       .isString()
-      .isLength({ min: 8, max: 72 }).withMessage('Password must be 8 to 72 characters.')
-      .matches(/[A-Za-z]/).withMessage('Password needs at least one letter.')
-      .matches(/\d/).withMessage('Password needs at least one number.'),
+      .trim()
+      .isLength({ min: 2, max: 80 })
+      .withMessage("Enter your full name (2 to 80 characters)."),
+    email,
+    body("password")
+      .isString()
+      .bail()
+      .isLength({ min: 15 })
+      .withMessage("Use a passphrase of at least 15 characters.")
+      .custom((value) => Buffer.byteLength(value, "utf8") <= 72)
+      .withMessage("Password must be at most 72 UTF-8 bytes."),
   ],
   validate,
-  c.register
+  accountLimiter,
+  c.register,
 );
-router.post('/login', authLimiter, [email, body('password').isString().notEmpty().withMessage('Enter your password.')], validate, c.login);
 router.post(
-  '/appeal',
+  "/login",
   authLimiter,
   [
     email,
-    body('password').isString().notEmpty().withMessage('Enter your password.'),
-    body('message').isString().trim().isLength({ min: 10, max: 1000 }).withMessage('Explain your situation in 10 to 1000 characters.'),
+    body("password")
+      .isString()
+      .bail()
+      .notEmpty()
+      .withMessage("Enter your password.")
+      .custom((v) => Buffer.byteLength(v, "utf8") <= 72)
+      .withMessage("Password must be at most 72 UTF-8 bytes."),
   ],
   validate,
-  c.appeal
+  accountLimiter,
+  c.login,
 );
-router.post('/logout', c.logout);
-router.get('/me', protect, c.me);
+router.post(
+  "/appeal",
+  authLimiter,
+  [
+    email,
+    body("password")
+      .isString()
+      .bail()
+      .notEmpty()
+      .withMessage("Enter your password.")
+      .custom((v) => Buffer.byteLength(v, "utf8") <= 72)
+      .withMessage("Password must be at most 72 UTF-8 bytes."),
+    body("message")
+      .isString()
+      .trim()
+      .isLength({ min: 10, max: 1000 })
+      .withMessage("Explain your situation in 10 to 1000 characters."),
+  ],
+  validate,
+  accountLimiter,
+  c.appeal,
+);
+router.post("/logout", c.logout);
+router.get("/me", protect, c.me);
 
 module.exports = router;

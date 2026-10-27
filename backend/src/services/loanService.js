@@ -1,7 +1,7 @@
-const { Book, BorrowingRecord: Borrowing } = require('lms-database');
-const config = require('../config/env');
-const AppError = require('../utils/AppError');
-const { startOfToday, addDays } = require('../utils/helpers');
+const { Book, BorrowingRecord: Borrowing } = require("lms-database");
+const config = require("../config/env");
+const AppError = require("../utils/AppError");
+const { startOfToday, addDays } = require("../utils/helpers");
 
 /**
  * Borrowing rules (proposal section III.C):
@@ -15,27 +15,60 @@ const { startOfToday, addDays } = require('../utils/helpers');
  */
 
 async function getEligibility(user, book) {
-  if (!user) return { canBorrow: false, code: 'AUTH', reason: 'Sign in to borrow this book.' };
-  if (user.role === 'admin' && !config.adminCanBorrow) {
-    return { canBorrow: false, code: 'ADMIN', reason: 'Admin accounts manage loans from the workspace.' };
+  if (!user)
+    return {
+      canBorrow: false,
+      code: "AUTH",
+      reason: "Sign in to borrow this book.",
+    };
+  if (user.role === "admin" && !config.adminCanBorrow) {
+    return {
+      canBorrow: false,
+      code: "ADMIN",
+      reason: "Admin accounts manage loans from the workspace.",
+    };
   }
-  if (book.isArchived) return { canBorrow: false, code: 'ARCHIVED', reason: 'This book has been archived and cannot be borrowed.' };
+  if (book.isArchived)
+    return {
+      canBorrow: false,
+      code: "ARCHIVED",
+      reason: "This book has been archived and cannot be borrowed.",
+    };
 
-  const active = await Borrowing.find({ userId: user._id, status: 'borrowed' }).select('bookId dueDate');
+  const active = await Borrowing.find({
+    userId: user._id,
+    status: "borrowed",
+  }).select("bookId dueDate");
   if (active.some((l) => String(l.bookId) === String(book._id))) {
-    return { canBorrow: false, code: 'HAS_COPY', reason: 'You already have this book on loan.' };
+    return {
+      canBorrow: false,
+      code: "HAS_COPY",
+      reason: "You already have this book on loan.",
+    };
   }
   if (active.some((l) => l.dueDate < startOfToday())) {
-    return { canBorrow: false, code: 'OVERDUE', reason: 'Return your overdue books before borrowing again.' };
+    return {
+      canBorrow: false,
+      code: "OVERDUE",
+      reason: "Return your overdue books before borrowing again.",
+    };
   }
   if (active.length >= config.maxActiveLoans) {
-    return { canBorrow: false, code: 'LIMIT', reason: `You have reached the limit of ${config.maxActiveLoans} active loans.` };
+    return {
+      canBorrow: false,
+      code: "LIMIT",
+      reason: `You have reached the limit of ${config.maxActiveLoans} active loans.`,
+    };
   }
   if (book.availableCopies <= 0) {
     const n = book.totalCopies;
-    return { canBorrow: false, code: 'NO_COPIES', reason: `All ${n} ${n === 1 ? 'copy is' : 'copies are'} on loan right now.` };
+    return {
+      canBorrow: false,
+      code: "NO_COPIES",
+      reason: `All ${n} ${n === 1 ? "copy is" : "copies are"} on loan right now.`,
+    };
   }
-  return { canBorrow: true, code: 'OK', reason: null };
+  return { canBorrow: true, code: "OK", reason: null };
 }
 
 /**
@@ -48,18 +81,21 @@ async function withNextAvailable(input) {
   let next = {};
   if (out.length) {
     const rows = await Borrowing.aggregate([
-      { $match: { status: 'borrowed', bookId: { $in: out } } },
-      { $group: { _id: '$bookId', next: { $min: '$dueDate' } } },
+      { $match: { status: "borrowed", bookId: { $in: out } } },
+      { $group: { _id: "$bookId", next: { $min: "$dueDate" } } },
     ]);
     next = Object.fromEntries(rows.map((r) => [String(r._id), r.next]));
   }
-  const plain = list.map((b) => ({ ...b.toJSON(), nextAvailableDate: next[String(b._id)] || null }));
+  const plain = list.map((b) => ({
+    ...b.toJSON(),
+    nextAvailableDate: next[String(b._id)] || null,
+  }));
   return Array.isArray(input) ? plain : plain[0];
 }
 
 async function borrowBook(user, bookId) {
   const book = await Book.findById(bookId);
-  if (!book) throw new AppError('Book not found.', 404);
+  if (!book) throw new AppError("Book not found.", 404);
 
   const eligibility = await getEligibility(user, book);
   if (!eligibility.canBorrow) throw new AppError(eligibility.reason, 409);
@@ -68,9 +104,13 @@ async function borrowBook(user, bookId) {
   const reserved = await Book.findOneAndUpdate(
     { _id: book._id, isArchived: false, availableCopies: { $gt: 0 } },
     { $inc: { availableCopies: -1 } },
-    { new: true }
+    { new: true },
   );
-  if (!reserved) throw new AppError('Someone just borrowed the last copy. Check back soon.', 409);
+  if (!reserved)
+    throw new AppError(
+      "Someone just borrowed the last copy. Check back soon.",
+      409,
+    );
 
   try {
     const borrowDate = new Date(); // server-generated, never trusted from the client
@@ -83,30 +123,58 @@ async function borrowBook(user, bookId) {
     return { loan, book: reserved };
   } catch (err) {
     // Compensating rollback so inventory never drifts
-    await Book.updateOne({ _id: book._id, $expr: { $lt: ['$availableCopies', '$totalCopies'] } }, { $inc: { availableCopies: 1 } });
-    if (err.code === 11000) throw new AppError('You already have this book on loan.', 409);
+    await Book.updateOne(
+      { _id: book._id, $expr: { $lt: ["$availableCopies", "$totalCopies"] } },
+      { $inc: { availableCopies: 1 } },
+    );
+    if (err.code === 11000)
+      throw new AppError("You already have this book on loan.", 409);
     throw err;
   }
 }
 
-async function returnLoan(loanId, adminUser) {
-  // Flip status only if still active -> a repeat/double return can never match twice.
+async function returnLoan(loanId, actor) {
+  if (!actor?._id) throw new AppError("Sign in to return a book.", 401);
+  const scope = { _id: loanId };
+  if (actor.role !== "admin") scope.userId = actor._id;
+
+  // Ownership and active status are checked in the same atomic update.
   const loan = await Borrowing.findOneAndUpdate(
-    { _id: loanId, status: 'borrowed' },
-    { $set: { status: 'returned', returnDate: new Date(), returnedBy: adminUser._id } },
-    { new: true }
+    { ...scope, status: "borrowed" },
+    {
+      $set: {
+        status: "returned",
+        returnDate: new Date(),
+        returnedBy: actor._id,
+      },
+    },
+    { new: true },
   );
   if (!loan) {
-    const exists = await Borrowing.exists({ _id: loanId });
-    throw exists ? new AppError('This loan has already been returned.', 409) : new AppError('Loan not found.', 404);
+    const exists = await Borrowing.exists(scope);
+    throw exists
+      ? new AppError("This loan has already been returned.", 409)
+      : new AppError("Loan not found.", 404);
   }
-  // Restore one copy, but never above totalCopies.
-  const book = await Book.findOneAndUpdate(
-    { _id: loan.bookId, $expr: { $lt: ['$availableCopies', '$totalCopies'] } },
-    { $inc: { availableCopies: 1 } },
-    { new: true }
-  );
-  return { loan, book: book || (await Book.findById(loan.bookId)) };
+
+  try {
+    const book = await Book.findOneAndUpdate(
+      {
+        _id: loan.bookId,
+        $expr: { $lt: ["$availableCopies", "$totalCopies"] },
+      },
+      { $inc: { availableCopies: 1 } },
+      { new: true },
+    );
+    return { loan, book: book || (await Book.findById(loan.bookId)) };
+  } catch (error) {
+    // Restore the active loan if the inventory write fails before completion.
+    await Borrowing.updateOne(
+      { _id: loan._id, status: "returned", returnDate: loan.returnDate },
+      { $set: { status: "borrowed", returnDate: null, returnedBy: null } },
+    );
+    throw error;
+  }
 }
 
 module.exports = { getEligibility, withNextAvailable, borrowBook, returnLoan };

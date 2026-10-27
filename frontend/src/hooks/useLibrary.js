@@ -1,17 +1,26 @@
-import { api, qs } from '../api/client';
-import { useAsync } from './useAsync';
+import { api, qs } from "../api/client";
+import { useAsync } from "./useAsync";
 
-let cache = null; // last catalog we loaded: shown at once when you come back from a book, then refreshed
+let cache = null;
 
-/** Loads the whole catalog (page by page) so shelves can be grouped by first letter. */
+/** Show the last public snapshot immediately, refresh it on entry, and batch remaining pages. */
 export function useLibrary() {
   const r = useAsync(async (signal) => {
-    const get = (page) => api.get(`/books${qs({ sort: 'title', limit: 100, page })}`, { signal });
+    const get = (page) =>
+      api.get(`/books${qs({ sort: "title", limit: 100, page })}`, { signal });
     const first = await get(1);
-    let all = [...first.data];
-    for (let p = 2; p <= Math.min(first.pages || 1, 100); p++) all = all.concat((await get(p)).data);
-    cache = all;
-    return all;
+    const pages = [first.data],
+      last = Math.min(first.pages || 1, 100);
+    for (let p = 2; p <= last; p += 4) {
+      const batch = await Promise.all(
+        Array.from({ length: Math.min(4, last - p + 1) }, (_, i) => get(p + i)),
+      );
+      pages.push(...batch.map((result) => result.data));
+    }
+    if (signal.aborted)
+      throw new DOMException("Request cancelled", "AbortError");
+    cache = pages.flat();
+    return cache;
   }, []);
   return { ...r, data: r.data || cache };
 }
