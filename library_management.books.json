@@ -1,0 +1,6426 @@
+[{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce09"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "category": "Fiction",
+  "isbn": "9781900000017",
+  "publicationYear": 1813,
+  "description": "Elizabeth Bennet navigates manners, money and misjudgment in Regency England.",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce0a"
+  },
+  "title": "Noli Me Tangere",
+  "author": "José Rizal",
+  "category": "Fiction",
+  "isbn": "9781900000024",
+  "publicationYear": 1887,
+  "description": "A novel of colonial Philippines that helped ignite a national awakening.",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce0b"
+  },
+  "title": "El Filibusterismo",
+  "author": "José Rizal",
+  "category": "Fiction",
+  "isbn": "9781900000031",
+  "publicationYear": 1891,
+  "description": "The darker sequel: reform has failed and revolution looms.",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce0c"
+  },
+  "title": "One Hundred Years of Solitude",
+  "author": "Gabriel García Márquez",
+  "category": "Fiction",
+  "isbn": "9781900000048",
+  "publicationYear": 1967,
+  "description": "Seven generations of the Buendía family in the mythical town of Macondo.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce0d"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "category": "Fiction",
+  "isbn": "9781900000055",
+  "publicationYear": 1925,
+  "description": "Wealth, longing and the American dream on Long Island.",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce0e"
+  },
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "category": "Fiction",
+  "isbn": "9781900000062",
+  "publicationYear": 1818,
+  "description": "A scientist creates life and cannot face what he has made.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce0f"
+  },
+  "title": "Dune",
+  "author": "Frank Herbert",
+  "category": "Science Fiction",
+  "isbn": "9781900000079",
+  "publicationYear": 1965,
+  "description": "Politics, ecology and prophecy on the desert planet Arrakis.",
+  "totalCopies": 3,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce10"
+  },
+  "title": "The Left Hand of Darkness",
+  "author": "Ursula K. Le Guin",
+  "category": "Science Fiction",
+  "isbn": "9781900000086",
+  "publicationYear": 1969,
+  "description": "An envoy visits a world without fixed gender and learns what trust costs.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce11"
+  },
+  "title": "Neuromancer",
+  "author": "William Gibson",
+  "category": "Science Fiction",
+  "isbn": "9781900000093",
+  "publicationYear": 1984,
+  "description": "A washed-up hacker gets one last job in the matrix.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce12"
+  },
+  "title": "A Brief History of Time",
+  "author": "Stephen Hawking",
+  "category": "Science",
+  "isbn": "9781900000109",
+  "publicationYear": 1988,
+  "description": "From the Big Bang to black holes, explained for curious readers.",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce13"
+  },
+  "title": "The Selfish Gene",
+  "author": "Richard Dawkins",
+  "category": "Science",
+  "isbn": "9781900000116",
+  "publicationYear": 1976,
+  "description": "Evolution seen from the gene’s point of view.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce14"
+  },
+  "title": "Cosmos",
+  "author": "Carl Sagan",
+  "category": "Science",
+  "isbn": "9781900000123",
+  "publicationYear": 1980,
+  "description": "A tour of the universe and humanity’s place in it.",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce15"
+  },
+  "title": "Silent Spring",
+  "author": "Rachel Carson",
+  "category": "Science",
+  "isbn": "9781900000130",
+  "publicationYear": 1962,
+  "description": "The book that launched the modern environmental movement.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce16"
+  },
+  "title": "The Pragmatic Programmer",
+  "author": "Andrew Hunt & David Thomas",
+  "category": "Technology",
+  "isbn": "9781900000147",
+  "publicationYear": 1999,
+  "description": "Practical habits for writing flexible, maintainable software.",
+  "totalCopies": 4,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.764Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce17"
+  },
+  "title": "Clean Code",
+  "author": "Robert C. Martin",
+  "category": "Technology",
+  "isbn": "9781900000154",
+  "publicationYear": 2008,
+  "description": "A handbook of agile software craftsmanship.",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.748Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce18"
+  },
+  "title": "Designing Data-Intensive Applications",
+  "author": "Martin Kleppmann",
+  "category": "Technology",
+  "isbn": "9781900000161",
+  "publicationYear": 2017,
+  "description": "The ideas behind reliable, scalable and maintainable systems.",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce19"
+  },
+  "title": "Introduction to Algorithms",
+  "author": "Cormen, Leiserson, Rivest & Stein",
+  "category": "Technology",
+  "isbn": "9781900000178",
+  "publicationYear": 1990,
+  "description": "The standard reference on algorithms and their analysis.",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce1a"
+  },
+  "title": "Eloquent JavaScript",
+  "author": "Marijn Haverbeke",
+  "category": "Technology",
+  "isbn": "9781900000185",
+  "publicationYear": 2011,
+  "description": "A modern introduction to programming with JavaScript.",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce1b"
+  },
+  "title": "You Don’t Know JS Yet",
+  "author": "Kyle Simpson",
+  "category": "Technology",
+  "isbn": "9781900000192",
+  "publicationYear": 2020,
+  "description": "A deep dive into the core mechanisms of JavaScript.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce1c"
+  },
+  "title": "Sapiens",
+  "author": "Yuval Noah Harari",
+  "category": "History",
+  "isbn": "9781900000208",
+  "publicationYear": 2011,
+  "description": "A brief history of humankind from the Stone Age to today.",
+  "totalCopies": 4,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.755Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce1d"
+  },
+  "title": "Guns, Germs, and Steel",
+  "author": "Jared Diamond",
+  "category": "History",
+  "isbn": "9781900000215",
+  "publicationYear": 1997,
+  "description": "Why some societies came to dominate others.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce1e"
+  },
+  "title": "The Diary of a Young Girl",
+  "author": "Anne Frank",
+  "category": "Biography",
+  "isbn": "9781900000222",
+  "publicationYear": 1947,
+  "description": "A teenager’s private account of hiding during the Second World War.",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce1f"
+  },
+  "title": "Long Walk to Freedom",
+  "author": "Nelson Mandela",
+  "category": "Biography",
+  "isbn": "9781900000239",
+  "publicationYear": 1994,
+  "description": "The autobiography of Nelson Mandela.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce20"
+  },
+  "title": "Steve Jobs",
+  "author": "Walter Isaacson",
+  "category": "Biography",
+  "isbn": "9781900000246",
+  "publicationYear": 2011,
+  "description": "The authorised biography of Apple’s co-founder.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce21"
+  },
+  "title": "Meditations",
+  "author": "Marcus Aurelius",
+  "category": "Philosophy",
+  "isbn": "9781900000253",
+  "publicationYear": 180,
+  "description": "Private notes on Stoic practice from a Roman emperor.",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce22"
+  },
+  "title": "The Republic",
+  "author": "Plato",
+  "category": "Philosophy",
+  "isbn": "9781900000260",
+  "publicationYear": 375,
+  "description": "A dialogue on justice, the soul and the ideal city.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce23"
+  },
+  "title": "Thus Spoke Zarathustra",
+  "author": "Friedrich Nietzsche",
+  "category": "Philosophy",
+  "isbn": "9781900000277",
+  "publicationYear": 1883,
+  "description": "A philosophical novel on the Übermensch and eternal recurrence.",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.759Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce24"
+  },
+  "title": "The Elements of Style",
+  "author": "William Strunk Jr. & E. B. White",
+  "category": "Language",
+  "isbn": "9781900000284",
+  "publicationYear": 1959,
+  "description": "A short guide to clear, forceful English prose.",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce25"
+  },
+  "title": "The Design of Everyday Things",
+  "author": "Don Norman",
+  "category": "Art & Design",
+  "isbn": "9781900000291",
+  "publicationYear": 1988,
+  "description": "Why some products satisfy while others only frustrate.",
+  "totalCopies": 3,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.743Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce26"
+  },
+  "title": "Thinking with Type",
+  "author": "Ellen Lupton",
+  "category": "Art & Design",
+  "isbn": "9781900000307",
+  "publicationYear": 2004,
+  "description": "A critical guide for designers, writers and students.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce27"
+  },
+  "title": "Ways of Seeing",
+  "author": "John Berger",
+  "category": "Art & Design",
+  "isbn": "9781900000314",
+  "publicationYear": 1972,
+  "description": "A landmark essay on how we look at images.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce28"
+  },
+  "title": "The Story of Art",
+  "author": "E. H. Gombrich",
+  "category": "Art & Design",
+  "isbn": "9781900000321",
+  "publicationYear": 1950,
+  "description": "A sweeping survey of art from cave paintings to the modern era.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce29"
+  },
+  "title": "Flatland",
+  "author": "Edwin A. Abbott",
+  "category": "Mathematics",
+  "isbn": "9781900000338",
+  "publicationYear": 1884,
+  "description": "A two-dimensional world and a lesson in perspective.",
+  "totalCopies": 2,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce2a"
+  },
+  "title": "The Joy of x",
+  "author": "Steven Strogatz",
+  "category": "Mathematics",
+  "isbn": "9781900000345",
+  "publicationYear": 2012,
+  "description": "A guided tour of math, from one to infinity.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce2b"
+  },
+  "title": "How to Solve It",
+  "author": "George Pólya",
+  "category": "Mathematics",
+  "isbn": "9781900000352",
+  "publicationYear": 1945,
+  "description": "A classic of mathematical problem solving.",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce2c"
+  },
+  "title": "The Wealth of Nations",
+  "author": "Adam Smith",
+  "category": "Economics",
+  "isbn": "9781900000369",
+  "publicationYear": 1776,
+  "description": "The foundational text of classical economics.",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce2d"
+  },
+  "title": "Thinking, Fast and Slow",
+  "author": "Daniel Kahneman",
+  "category": "Psychology",
+  "isbn": "9781900000376",
+  "publicationYear": 2011,
+  "description": "Two systems of thought and the biases that shape our decisions.",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce2e"
+  },
+  "title": "Man’s Search for Meaning",
+  "author": "Viktor E. Frankl",
+  "category": "Psychology",
+  "isbn": "9781900000383",
+  "publicationYear": 1946,
+  "description": "Finding purpose in the most extreme circumstances.",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce2f"
+  },
+  "title": "The Little Prince",
+  "author": "Antoine de Saint-Exupéry",
+  "category": "Children",
+  "isbn": "9781900000390",
+  "publicationYear": 1943,
+  "description": "A pilot meets a small prince who has travelled from another planet.",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce30"
+  },
+  "title": "Charlotte’s Web",
+  "author": "E. B. White",
+  "category": "Children",
+  "isbn": "9781900000406",
+  "publicationYear": 1952,
+  "description": "A pig, a spider and a friendship that saves a life.",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce31"
+  },
+  "title": "Emma",
+  "author": "Jane Austen",
+  "category": "Fiction",
+  "isbn": "9781900000413",
+  "publicationYear": 1815,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce32"
+  },
+  "title": "Persuasion",
+  "author": "Jane Austen",
+  "category": "Fiction",
+  "isbn": "9781900000420",
+  "publicationYear": 1817,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce33"
+  },
+  "title": "Sense and Sensibility",
+  "author": "Jane Austen",
+  "category": "Fiction",
+  "isbn": "9781900000437",
+  "publicationYear": 1811,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce34"
+  },
+  "title": "Jane Eyre",
+  "author": "Charlotte Brontë",
+  "category": "Fiction",
+  "isbn": "9781900000444",
+  "publicationYear": 1847,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce35"
+  },
+  "title": "Wuthering Heights",
+  "author": "Emily Brontë",
+  "category": "Fiction",
+  "isbn": "9781900000451",
+  "publicationYear": 1847,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce36"
+  },
+  "title": "Great Expectations",
+  "author": "Charles Dickens",
+  "category": "Fiction",
+  "isbn": "9781900000468",
+  "publicationYear": 1861,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce37"
+  },
+  "title": "Oliver Twist",
+  "author": "Charles Dickens",
+  "category": "Fiction",
+  "isbn": "9781900000475",
+  "publicationYear": 1838,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce38"
+  },
+  "title": "A Tale of Two Cities",
+  "author": "Charles Dickens",
+  "category": "Fiction",
+  "isbn": "9781900000482",
+  "publicationYear": 1859,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce39"
+  },
+  "title": "Middlemarch",
+  "author": "George Eliot",
+  "category": "Fiction",
+  "isbn": "9781900000499",
+  "publicationYear": 1871,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce3a"
+  },
+  "title": "Anna Karenina",
+  "author": "Leo Tolstoy",
+  "category": "Fiction",
+  "isbn": "9781900000505",
+  "publicationYear": 1878,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce3b"
+  },
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "category": "Fiction",
+  "isbn": "9781900000512",
+  "publicationYear": 1869,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce3c"
+  },
+  "title": "Crime and Punishment",
+  "author": "Fyodor Dostoevsky",
+  "category": "Fiction",
+  "isbn": "9781900000529",
+  "publicationYear": 1866,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce3d"
+  },
+  "title": "The Brothers Karamazov",
+  "author": "Fyodor Dostoevsky",
+  "category": "Fiction",
+  "isbn": "9781900000536",
+  "publicationYear": 1880,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce3e"
+  },
+  "title": "Madame Bovary",
+  "author": "Gustave Flaubert",
+  "category": "Fiction",
+  "isbn": "9781900000543",
+  "publicationYear": 1856,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce3f"
+  },
+  "title": "Les Misérables",
+  "author": "Victor Hugo",
+  "category": "Fiction",
+  "isbn": "9781900000550",
+  "publicationYear": 1862,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce40"
+  },
+  "title": "The Count of Monte Cristo",
+  "author": "Alexandre Dumas",
+  "category": "Fiction",
+  "isbn": "9781900000567",
+  "publicationYear": 1844,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce41"
+  },
+  "title": "Moby-Dick",
+  "author": "Herman Melville",
+  "category": "Fiction",
+  "isbn": "9781900000574",
+  "publicationYear": 1851,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce42"
+  },
+  "title": "The Scarlet Letter",
+  "author": "Nathaniel Hawthorne",
+  "category": "Fiction",
+  "isbn": "9781900000581",
+  "publicationYear": 1850,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce43"
+  },
+  "title": "Adventures of Huckleberry Finn",
+  "author": "Mark Twain",
+  "category": "Fiction",
+  "isbn": "9781900000598",
+  "publicationYear": 1884,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce44"
+  },
+  "title": "Little Women",
+  "author": "Louisa May Alcott",
+  "category": "Fiction",
+  "isbn": "9781900000604",
+  "publicationYear": 1868,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce45"
+  },
+  "title": "The Picture of Dorian Gray",
+  "author": "Oscar Wilde",
+  "category": "Fiction",
+  "isbn": "9781900000611",
+  "publicationYear": 1890,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce46"
+  },
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "category": "Fiction",
+  "isbn": "9781900000628",
+  "publicationYear": 1897,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce47"
+  },
+  "title": "Heart of Darkness",
+  "author": "Joseph Conrad",
+  "category": "Fiction",
+  "isbn": "9781900000635",
+  "publicationYear": 1899,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce48"
+  },
+  "title": "Ulysses",
+  "author": "James Joyce",
+  "category": "Fiction",
+  "isbn": "9781900000642",
+  "publicationYear": 1922,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce49"
+  },
+  "title": "Mrs Dalloway",
+  "author": "Virginia Woolf",
+  "category": "Fiction",
+  "isbn": "9781900000659",
+  "publicationYear": 1925,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce4a"
+  },
+  "title": "To the Lighthouse",
+  "author": "Virginia Woolf",
+  "category": "Fiction",
+  "isbn": "9781900000666",
+  "publicationYear": 1927,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce4b"
+  },
+  "title": "The Sun Also Rises",
+  "author": "Ernest Hemingway",
+  "category": "Fiction",
+  "isbn": "9781900000673",
+  "publicationYear": 1926,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce4c"
+  },
+  "title": "The Old Man and the Sea",
+  "author": "Ernest Hemingway",
+  "category": "Fiction",
+  "isbn": "9781900000680",
+  "publicationYear": 1952,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce4d"
+  },
+  "title": "The Grapes of Wrath",
+  "author": "John Steinbeck",
+  "category": "Fiction",
+  "isbn": "9781900000697",
+  "publicationYear": 1939,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce4e"
+  },
+  "title": "Of Mice and Men",
+  "author": "John Steinbeck",
+  "category": "Fiction",
+  "isbn": "9781900000703",
+  "publicationYear": 1937,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce4f"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "category": "Fiction",
+  "isbn": "9781900000710",
+  "publicationYear": 1960,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce50"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J. D. Salinger",
+  "category": "Fiction",
+  "isbn": "9781900000727",
+  "publicationYear": 1951,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce51"
+  },
+  "title": "Lolita",
+  "author": "Vladimir Nabokov",
+  "category": "Fiction",
+  "isbn": "9781900000734",
+  "publicationYear": 1955,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce52"
+  },
+  "title": "Catch-22",
+  "author": "Joseph Heller",
+  "category": "Fiction",
+  "isbn": "9781900000741",
+  "publicationYear": 1961,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce53"
+  },
+  "title": "Slaughterhouse-Five",
+  "author": "Kurt Vonnegut",
+  "category": "Fiction",
+  "isbn": "9781900000758",
+  "publicationYear": 1969,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce54"
+  },
+  "title": "Beloved",
+  "author": "Toni Morrison",
+  "category": "Fiction",
+  "isbn": "9781900000765",
+  "publicationYear": 1987,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce55"
+  },
+  "title": "Things Fall Apart",
+  "author": "Chinua Achebe",
+  "category": "Fiction",
+  "isbn": "9781900000772",
+  "publicationYear": 1958,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce56"
+  },
+  "title": "The Stranger",
+  "author": "Albert Camus",
+  "category": "Fiction",
+  "isbn": "9781900000789",
+  "publicationYear": 1942,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce57"
+  },
+  "title": "The Trial",
+  "author": "Franz Kafka",
+  "category": "Fiction",
+  "isbn": "9781900000796",
+  "publicationYear": 1925,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce58"
+  },
+  "title": "The Metamorphosis",
+  "author": "Franz Kafka",
+  "category": "Fiction",
+  "isbn": "9781900000802",
+  "publicationYear": 1915,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce59"
+  },
+  "title": "Siddhartha",
+  "author": "Hermann Hesse",
+  "category": "Fiction",
+  "isbn": "9781900000819",
+  "publicationYear": 1922,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce5a"
+  },
+  "title": "Love in the Time of Cholera",
+  "author": "Gabriel García Márquez",
+  "category": "Fiction",
+  "isbn": "9781900000826",
+  "publicationYear": 1985,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce5b"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "category": "Fiction",
+  "isbn": "9781900000833",
+  "publicationYear": 1988,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce5c"
+  },
+  "title": "Life of Pi",
+  "author": "Yann Martel",
+  "category": "Fiction",
+  "isbn": "9781900000840",
+  "publicationYear": 2001,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce5d"
+  },
+  "title": "The Kite Runner",
+  "author": "Khaled Hosseini",
+  "category": "Fiction",
+  "isbn": "9781900000857",
+  "publicationYear": 2003,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce5e"
+  },
+  "title": "Atonement",
+  "author": "Ian McEwan",
+  "category": "Fiction",
+  "isbn": "9781900000864",
+  "publicationYear": 2001,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T15:23:36.461Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce5f"
+  },
+  "title": "The Remains of the Day",
+  "author": "Kazuo Ishiguro",
+  "category": "Fiction",
+  "isbn": "9781900000871",
+  "publicationYear": 1989,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce60"
+  },
+  "title": "Norwegian Wood",
+  "author": "Haruki Murakami",
+  "category": "Fiction",
+  "isbn": "9781900000888",
+  "publicationYear": 1987,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce61"
+  },
+  "title": "Don Quixote",
+  "author": "Miguel de Cervantes",
+  "category": "Fiction",
+  "isbn": "9781900000895",
+  "publicationYear": 1605,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce62"
+  },
+  "title": "Candide",
+  "author": "Voltaire",
+  "category": "Fiction",
+  "isbn": "9781900000901",
+  "publicationYear": 1759,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce63"
+  },
+  "title": "Gulliver’s Travels",
+  "author": "Jonathan Swift",
+  "category": "Fiction",
+  "isbn": "9781900000918",
+  "publicationYear": 1726,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce64"
+  },
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "category": "Fiction",
+  "isbn": "9781900000925",
+  "publicationYear": 1883,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce65"
+  },
+  "title": "Foundation",
+  "author": "Isaac Asimov",
+  "category": "Science Fiction",
+  "isbn": "9781900000932",
+  "publicationYear": 1951,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce66"
+  },
+  "title": "I, Robot",
+  "author": "Isaac Asimov",
+  "category": "Science Fiction",
+  "isbn": "9781900000949",
+  "publicationYear": 1950,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce67"
+  },
+  "title": "Do Androids Dream of Electric Sheep?",
+  "author": "Philip K. Dick",
+  "category": "Science Fiction",
+  "isbn": "9781900000956",
+  "publicationYear": 1968,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce68"
+  },
+  "title": "The Time Machine",
+  "author": "H. G. Wells",
+  "category": "Science Fiction",
+  "isbn": "9781900000963",
+  "publicationYear": 1895,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce69"
+  },
+  "title": "The War of the Worlds",
+  "author": "H. G. Wells",
+  "category": "Science Fiction",
+  "isbn": "9781900000970",
+  "publicationYear": 1898,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce6a"
+  },
+  "title": "Twenty Thousand Leagues Under the Sea",
+  "author": "Jules Verne",
+  "category": "Science Fiction",
+  "isbn": "9781900000987",
+  "publicationYear": 1870,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce6b"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "category": "Science Fiction",
+  "isbn": "9781900000994",
+  "publicationYear": 1949,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce6c"
+  },
+  "title": "Animal Farm",
+  "author": "George Orwell",
+  "category": "Science Fiction",
+  "isbn": "9781900001007",
+  "publicationYear": 1945,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T15:21:27.836Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce6d"
+  },
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "category": "Science Fiction",
+  "isbn": "9781900001014",
+  "publicationYear": 1932,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce6e"
+  },
+  "title": "Fahrenheit 451",
+  "author": "Ray Bradbury",
+  "category": "Science Fiction",
+  "isbn": "9781900001021",
+  "publicationYear": 1953,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce6f"
+  },
+  "title": "The Martian Chronicles",
+  "author": "Ray Bradbury",
+  "category": "Science Fiction",
+  "isbn": "9781900001038",
+  "publicationYear": 1950,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce70"
+  },
+  "title": "Ender’s Game",
+  "author": "Orson Scott Card",
+  "category": "Science Fiction",
+  "isbn": "9781900001045",
+  "publicationYear": 1985,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce71"
+  },
+  "title": "Snow Crash",
+  "author": "Neal Stephenson",
+  "category": "Science Fiction",
+  "isbn": "9781900001052",
+  "publicationYear": 1992,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce72"
+  },
+  "title": "The Hitchhiker’s Guide to the Galaxy",
+  "author": "Douglas Adams",
+  "category": "Science Fiction",
+  "isbn": "9781900001069",
+  "publicationYear": 1979,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce73"
+  },
+  "title": "Hyperion",
+  "author": "Dan Simmons",
+  "category": "Science Fiction",
+  "isbn": "9781900001076",
+  "publicationYear": 1989,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce74"
+  },
+  "title": "The Dispossessed",
+  "author": "Ursula K. Le Guin",
+  "category": "Science Fiction",
+  "isbn": "9781900001083",
+  "publicationYear": 1974,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce75"
+  },
+  "title": "Solaris",
+  "author": "Stanisław Lem",
+  "category": "Science Fiction",
+  "isbn": "9781900001090",
+  "publicationYear": 1961,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce76"
+  },
+  "title": "Childhood’s End",
+  "author": "Arthur C. Clarke",
+  "category": "Science Fiction",
+  "isbn": "9781900001106",
+  "publicationYear": 1953,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce77"
+  },
+  "title": "2001: A Space Odyssey",
+  "author": "Arthur C. Clarke",
+  "category": "Science Fiction",
+  "isbn": "9781900001113",
+  "publicationYear": 1968,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce78"
+  },
+  "title": "The Three-Body Problem",
+  "author": "Liu Cixin",
+  "category": "Science Fiction",
+  "isbn": "9781900001120",
+  "publicationYear": 2008,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce79"
+  },
+  "title": "Station Eleven",
+  "author": "Emily St. John Mandel",
+  "category": "Science Fiction",
+  "isbn": "9781900001137",
+  "publicationYear": 2014,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce7a"
+  },
+  "title": "The Handmaid’s Tale",
+  "author": "Margaret Atwood",
+  "category": "Science Fiction",
+  "isbn": "9781900001144",
+  "publicationYear": 1985,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce7b"
+  },
+  "title": "Kindred",
+  "author": "Octavia E. Butler",
+  "category": "Science Fiction",
+  "isbn": "9781900001151",
+  "publicationYear": 1979,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce7c"
+  },
+  "title": "The Road",
+  "author": "Cormac McCarthy",
+  "category": "Science Fiction",
+  "isbn": "9781900001168",
+  "publicationYear": 2006,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce7d"
+  },
+  "title": "The Martian",
+  "author": "Andy Weir",
+  "category": "Science Fiction",
+  "isbn": "9781900001175",
+  "publicationYear": 2011,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce7e"
+  },
+  "title": "Project Hail Mary",
+  "author": "Andy Weir",
+  "category": "Science Fiction",
+  "isbn": "9781900001182",
+  "publicationYear": 2021,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce7f"
+  },
+  "title": "The Hobbit",
+  "author": "J. R. R. Tolkien",
+  "category": "Fantasy",
+  "isbn": "9781900001199",
+  "publicationYear": 1937,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce80"
+  },
+  "title": "The Fellowship of the Ring",
+  "author": "J. R. R. Tolkien",
+  "category": "Fantasy",
+  "isbn": "9781900001205",
+  "publicationYear": 1954,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce81"
+  },
+  "title": "A Game of Thrones",
+  "author": "George R. R. Martin",
+  "category": "Fantasy",
+  "isbn": "9781900001212",
+  "publicationYear": 1996,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce82"
+  },
+  "title": "The Name of the Wind",
+  "author": "Patrick Rothfuss",
+  "category": "Fantasy",
+  "isbn": "9781900001229",
+  "publicationYear": 2007,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce83"
+  },
+  "title": "The Lion, the Witch and the Wardrobe",
+  "author": "C. S. Lewis",
+  "category": "Fantasy",
+  "isbn": "9781900001236",
+  "publicationYear": 1950,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce84"
+  },
+  "title": "American Gods",
+  "author": "Neil Gaiman",
+  "category": "Fantasy",
+  "isbn": "9781900001243",
+  "publicationYear": 2001,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce85"
+  },
+  "title": "Good Omens",
+  "author": "Terry Pratchett & Neil Gaiman",
+  "category": "Fantasy",
+  "isbn": "9781900001250",
+  "publicationYear": 1990,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce86"
+  },
+  "title": "Mort",
+  "author": "Terry Pratchett",
+  "category": "Fantasy",
+  "isbn": "9781900001267",
+  "publicationYear": 1987,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce87"
+  },
+  "title": "A Wizard of Earthsea",
+  "author": "Ursula K. Le Guin",
+  "category": "Fantasy",
+  "isbn": "9781900001274",
+  "publicationYear": 1968,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce88"
+  },
+  "title": "Mistborn: The Final Empire",
+  "author": "Brandon Sanderson",
+  "category": "Fantasy",
+  "isbn": "9781900001281",
+  "publicationYear": 2006,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce89"
+  },
+  "title": "And Then There Were None",
+  "author": "Agatha Christie",
+  "category": "Mystery",
+  "isbn": "9781900001298",
+  "publicationYear": 1939,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce8a"
+  },
+  "title": "Murder on the Orient Express",
+  "author": "Agatha Christie",
+  "category": "Mystery",
+  "isbn": "9781900001304",
+  "publicationYear": 1934,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce8b"
+  },
+  "title": "The Hound of the Baskervilles",
+  "author": "Arthur Conan Doyle",
+  "category": "Mystery",
+  "isbn": "9781900001311",
+  "publicationYear": 1902,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce8c"
+  },
+  "title": "A Study in Scarlet",
+  "author": "Arthur Conan Doyle",
+  "category": "Mystery",
+  "isbn": "9781900001328",
+  "publicationYear": 1887,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce8d"
+  },
+  "title": "The Big Sleep",
+  "author": "Raymond Chandler",
+  "category": "Mystery",
+  "isbn": "9781900001335",
+  "publicationYear": 1939,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce8e"
+  },
+  "title": "The Maltese Falcon",
+  "author": "Dashiell Hammett",
+  "category": "Mystery",
+  "isbn": "9781900001342",
+  "publicationYear": 1930,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce8f"
+  },
+  "title": "Rebecca",
+  "author": "Daphne du Maurier",
+  "category": "Mystery",
+  "isbn": "9781900001359",
+  "publicationYear": 1938,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce90"
+  },
+  "title": "Gone Girl",
+  "author": "Gillian Flynn",
+  "category": "Mystery",
+  "isbn": "9781900001366",
+  "publicationYear": 2012,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce91"
+  },
+  "title": "The Girl with the Dragon Tattoo",
+  "author": "Stieg Larsson",
+  "category": "Mystery",
+  "isbn": "9781900001373",
+  "publicationYear": 2005,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce92"
+  },
+  "title": "The Name of the Rose",
+  "author": "Umberto Eco",
+  "category": "Mystery",
+  "isbn": "9781900001380",
+  "publicationYear": 1980,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce93"
+  },
+  "title": "In Cold Blood",
+  "author": "Truman Capote",
+  "category": "Mystery",
+  "isbn": "9781900001397",
+  "publicationYear": 1966,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce94"
+  },
+  "title": "On the Origin of Species",
+  "author": "Charles Darwin",
+  "category": "Science",
+  "isbn": "9781900001403",
+  "publicationYear": 1859,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce95"
+  },
+  "title": "The Double Helix",
+  "author": "James D. Watson",
+  "category": "Science",
+  "isbn": "9781900001410",
+  "publicationYear": 1968,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce96"
+  },
+  "title": "A Short History of Nearly Everything",
+  "author": "Bill Bryson",
+  "category": "Science",
+  "isbn": "9781900001427",
+  "publicationYear": 2003,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce97"
+  },
+  "title": "Pale Blue Dot",
+  "author": "Carl Sagan",
+  "category": "Science",
+  "isbn": "9781900001434",
+  "publicationYear": 1994,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce98"
+  },
+  "title": "The Demon-Haunted World",
+  "author": "Carl Sagan",
+  "category": "Science",
+  "isbn": "9781900001441",
+  "publicationYear": 1995,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce99"
+  },
+  "title": "Astrophysics for People in a Hurry",
+  "author": "Neil deGrasse Tyson",
+  "category": "Science",
+  "isbn": "9781900001458",
+  "publicationYear": 2017,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce9a"
+  },
+  "title": "The Elegant Universe",
+  "author": "Brian Greene",
+  "category": "Science",
+  "isbn": "9781900001465",
+  "publicationYear": 1999,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce9b"
+  },
+  "title": "Six Easy Pieces",
+  "author": "Richard Feynman",
+  "category": "Science",
+  "isbn": "9781900001472",
+  "publicationYear": 1994,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce9c"
+  },
+  "title": "Gödel, Escher, Bach",
+  "author": "Douglas Hofstadter",
+  "category": "Science",
+  "isbn": "9781900001489",
+  "publicationYear": 1979,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce9d"
+  },
+  "title": "The Structure of Scientific Revolutions",
+  "author": "Thomas Kuhn",
+  "category": "Science",
+  "isbn": "9781900001496",
+  "publicationYear": 1962,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce9e"
+  },
+  "title": "The Gene",
+  "author": "Siddhartha Mukherjee",
+  "category": "Science",
+  "isbn": "9781900001502",
+  "publicationYear": 2016,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce9f"
+  },
+  "title": "Genome",
+  "author": "Matt Ridley",
+  "category": "Science",
+  "isbn": "9781900001519",
+  "publicationYear": 1999,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcea0"
+  },
+  "title": "The Sixth Extinction",
+  "author": "Elizabeth Kolbert",
+  "category": "Science",
+  "isbn": "9781900001526",
+  "publicationYear": 2014,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcea1"
+  },
+  "title": "The Hidden Life of Trees",
+  "author": "Peter Wohlleben",
+  "category": "Science",
+  "isbn": "9781900001533",
+  "publicationYear": 2015,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcea2"
+  },
+  "title": "Braiding Sweetgrass",
+  "author": "Robin Wall Kimmerer",
+  "category": "Science",
+  "isbn": "9781900001540",
+  "publicationYear": 2013,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcea3"
+  },
+  "title": "Chaos",
+  "author": "James Gleick",
+  "category": "Science",
+  "isbn": "9781900001557",
+  "publicationYear": 1987,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcea4"
+  },
+  "title": "Why We Sleep",
+  "author": "Matthew Walker",
+  "category": "Science",
+  "isbn": "9781900001564",
+  "publicationYear": 2017,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcea5"
+  },
+  "title": "Code",
+  "author": "Charles Petzold",
+  "category": "Technology",
+  "isbn": "9781900001571",
+  "publicationYear": 1999,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcea6"
+  },
+  "title": "The Mythical Man-Month",
+  "author": "Frederick P. Brooks Jr.",
+  "category": "Technology",
+  "isbn": "9781900001588",
+  "publicationYear": 1975,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcea7"
+  },
+  "title": "Structure and Interpretation of Computer Programs",
+  "author": "Abelson & Sussman",
+  "category": "Technology",
+  "isbn": "9781900001595",
+  "publicationYear": 1985,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcea8"
+  },
+  "title": "Refactoring",
+  "author": "Martin Fowler",
+  "category": "Technology",
+  "isbn": "9781900001601",
+  "publicationYear": 1999,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcea9"
+  },
+  "title": "Design Patterns",
+  "author": "Gamma, Helm, Johnson & Vlissides",
+  "category": "Technology",
+  "isbn": "9781900001618",
+  "publicationYear": 1994,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceaa"
+  },
+  "title": "The C Programming Language",
+  "author": "Kernighan & Ritchie",
+  "category": "Technology",
+  "isbn": "9781900001625",
+  "publicationYear": 1978,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceab"
+  },
+  "title": "Code Complete",
+  "author": "Steve McConnell",
+  "category": "Technology",
+  "isbn": "9781900001632",
+  "publicationYear": 1993,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceac"
+  },
+  "title": "Cracking the Coding Interview",
+  "author": "Gayle Laakmann McDowell",
+  "category": "Technology",
+  "isbn": "9781900001649",
+  "publicationYear": 2008,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcead"
+  },
+  "title": "The Phoenix Project",
+  "author": "Gene Kim",
+  "category": "Technology",
+  "isbn": "9781900001656",
+  "publicationYear": 2013,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceae"
+  },
+  "title": "Clean Architecture",
+  "author": "Robert C. Martin",
+  "category": "Technology",
+  "isbn": "9781900001663",
+  "publicationYear": 2017,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceaf"
+  },
+  "title": "Hackers",
+  "author": "Steven Levy",
+  "category": "Technology",
+  "isbn": "9781900001670",
+  "publicationYear": 1984,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceb0"
+  },
+  "title": "The Innovators",
+  "author": "Walter Isaacson",
+  "category": "Technology",
+  "isbn": "9781900001687",
+  "publicationYear": 2014,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceb1"
+  },
+  "title": "Algorithms to Live By",
+  "author": "Brian Christian & Tom Griffiths",
+  "category": "Technology",
+  "isbn": "9781900001694",
+  "publicationYear": 2016,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceb2"
+  },
+  "title": "Deep Learning",
+  "author": "Goodfellow, Bengio & Courville",
+  "category": "Technology",
+  "isbn": "9781900001700",
+  "publicationYear": 2016,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceb3"
+  },
+  "title": "Python Crash Course",
+  "author": "Eric Matthes",
+  "category": "Technology",
+  "isbn": "9781900001717",
+  "publicationYear": 2015,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceb4"
+  },
+  "title": "Fluent Python",
+  "author": "Luciano Ramalho",
+  "category": "Technology",
+  "isbn": "9781900001724",
+  "publicationYear": 2015,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceb5"
+  },
+  "title": "JavaScript: The Good Parts",
+  "author": "Douglas Crockford",
+  "category": "Technology",
+  "isbn": "9781900001731",
+  "publicationYear": 2008,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceb6"
+  },
+  "title": "Learning SQL",
+  "author": "Alan Beaulieu",
+  "category": "Technology",
+  "isbn": "9781900001748",
+  "publicationYear": 2005,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceb7"
+  },
+  "title": "Site Reliability Engineering",
+  "author": "Beyer, Jones, Petoff & Murphy",
+  "category": "Technology",
+  "isbn": "9781900001755",
+  "publicationYear": 2016,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceb8"
+  },
+  "title": "A People’s History of the United States",
+  "author": "Howard Zinn",
+  "category": "History",
+  "isbn": "9781900001762",
+  "publicationYear": 1980,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceb9"
+  },
+  "title": "SPQR",
+  "author": "Mary Beard",
+  "category": "History",
+  "isbn": "9781900001779",
+  "publicationYear": 2015,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceba"
+  },
+  "title": "The Rise and Fall of the Third Reich",
+  "author": "William L. Shirer",
+  "category": "History",
+  "isbn": "9781900001786",
+  "publicationYear": 1960,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcebb"
+  },
+  "title": "Team of Rivals",
+  "author": "Doris Kearns Goodwin",
+  "category": "History",
+  "isbn": "9781900001793",
+  "publicationYear": 2005,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcebc"
+  },
+  "title": "The Silk Roads",
+  "author": "Peter Frankopan",
+  "category": "History",
+  "isbn": "9781900001809",
+  "publicationYear": 2015,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcebd"
+  },
+  "title": "1491",
+  "author": "Charles C. Mann",
+  "category": "History",
+  "isbn": "9781900001816",
+  "publicationYear": 2005,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcebe"
+  },
+  "title": "Postwar",
+  "author": "Tony Judt",
+  "category": "History",
+  "isbn": "9781900001823",
+  "publicationYear": 2005,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcebf"
+  },
+  "title": "The Guns of August",
+  "author": "Barbara W. Tuchman",
+  "category": "History",
+  "isbn": "9781900001830",
+  "publicationYear": 1962,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcec0"
+  },
+  "title": "Prisoners of Geography",
+  "author": "Tim Marshall",
+  "category": "History",
+  "isbn": "9781900001847",
+  "publicationYear": 2015,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcec1"
+  },
+  "title": "Educated",
+  "author": "Tara Westover",
+  "category": "Biography",
+  "isbn": "9781900001854",
+  "publicationYear": 2018,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcec2"
+  },
+  "title": "I Know Why the Caged Bird Sings",
+  "author": "Maya Angelou",
+  "category": "Biography",
+  "isbn": "9781900001861",
+  "publicationYear": 1969,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcec3"
+  },
+  "title": "Becoming",
+  "author": "Michelle Obama",
+  "category": "Biography",
+  "isbn": "9781900001878",
+  "publicationYear": 2018,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcec4"
+  },
+  "title": "Born a Crime",
+  "author": "Trevor Noah",
+  "category": "Biography",
+  "isbn": "9781900001885",
+  "publicationYear": 2016,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcec5"
+  },
+  "title": "Einstein: His Life and Universe",
+  "author": "Walter Isaacson",
+  "category": "Biography",
+  "isbn": "9781900001892",
+  "publicationYear": 2007,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcec6"
+  },
+  "title": "Leonardo da Vinci",
+  "author": "Walter Isaacson",
+  "category": "Biography",
+  "isbn": "9781900001908",
+  "publicationYear": 2017,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcec7"
+  },
+  "title": "Alexander Hamilton",
+  "author": "Ron Chernow",
+  "category": "Biography",
+  "isbn": "9781900001915",
+  "publicationYear": 2004,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcec8"
+  },
+  "title": "The Autobiography of Malcolm X",
+  "author": "Malcolm X & Alex Haley",
+  "category": "Biography",
+  "isbn": "9781900001922",
+  "publicationYear": 1965,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcec9"
+  },
+  "title": "Just Kids",
+  "author": "Patti Smith",
+  "category": "Biography",
+  "isbn": "9781900001939",
+  "publicationYear": 2010,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceca"
+  },
+  "title": "Persepolis",
+  "author": "Marjane Satrapi",
+  "category": "Biography",
+  "isbn": "9781900001946",
+  "publicationYear": 2000,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcecb"
+  },
+  "title": "Unbroken",
+  "author": "Laura Hillenbrand",
+  "category": "Biography",
+  "isbn": "9781900001953",
+  "publicationYear": 2010,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcecc"
+  },
+  "title": "Nicomachean Ethics",
+  "author": "Aristotle",
+  "category": "Philosophy",
+  "isbn": "9781900001960",
+  "publicationYear": 350,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcecd"
+  },
+  "title": "Apology",
+  "author": "Plato",
+  "category": "Philosophy",
+  "isbn": "9781900001977",
+  "publicationYear": 380,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcece"
+  },
+  "title": "Beyond Good and Evil",
+  "author": "Friedrich Nietzsche",
+  "category": "Philosophy",
+  "isbn": "9781900001984",
+  "publicationYear": 1886,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcecf"
+  },
+  "title": "Critique of Pure Reason",
+  "author": "Immanuel Kant",
+  "category": "Philosophy",
+  "isbn": "9781900001991",
+  "publicationYear": 1781,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfced0"
+  },
+  "title": "Leviathan",
+  "author": "Thomas Hobbes",
+  "category": "Philosophy",
+  "isbn": "9781900002004",
+  "publicationYear": 1651,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfced1"
+  },
+  "title": "The Prince",
+  "author": "Niccolò Machiavelli",
+  "category": "Philosophy",
+  "isbn": "9781900002011",
+  "publicationYear": 1532,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfced2"
+  },
+  "title": "Utopia",
+  "author": "Thomas More",
+  "category": "Philosophy",
+  "isbn": "9781900002028",
+  "publicationYear": 1516,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfced3"
+  },
+  "title": "The Social Contract",
+  "author": "Jean-Jacques Rousseau",
+  "category": "Philosophy",
+  "isbn": "9781900002035",
+  "publicationYear": 1762,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfced4"
+  },
+  "title": "Walden",
+  "author": "Henry David Thoreau",
+  "category": "Philosophy",
+  "isbn": "9781900002042",
+  "publicationYear": 1854,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfced5"
+  },
+  "title": "Letters from a Stoic",
+  "author": "Seneca",
+  "category": "Philosophy",
+  "isbn": "9781900002059",
+  "publicationYear": 65,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfced6"
+  },
+  "title": "The Art of War",
+  "author": "Sun Tzu",
+  "category": "Philosophy",
+  "isbn": "9781900002066",
+  "publicationYear": 500,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfced7"
+  },
+  "title": "Tao Te Ching",
+  "author": "Laozi",
+  "category": "Philosophy",
+  "isbn": "9781900002073",
+  "publicationYear": 400,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfced8"
+  },
+  "title": "The Myth of Sisyphus",
+  "author": "Albert Camus",
+  "category": "Philosophy",
+  "isbn": "9781900002080",
+  "publicationYear": 1942,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfced9"
+  },
+  "title": "Sophie’s World",
+  "author": "Jostein Gaarder",
+  "category": "Philosophy",
+  "isbn": "9781900002097",
+  "publicationYear": 1991,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceda"
+  },
+  "title": "Justice",
+  "author": "Michael J. Sandel",
+  "category": "Philosophy",
+  "isbn": "9781900002103",
+  "publicationYear": 2009,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcedb"
+  },
+  "title": "On Liberty",
+  "author": "John Stuart Mill",
+  "category": "Philosophy",
+  "isbn": "9781900002110",
+  "publicationYear": 1859,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcedc"
+  },
+  "title": "The Second Sex",
+  "author": "Simone de Beauvoir",
+  "category": "Philosophy",
+  "isbn": "9781900002127",
+  "publicationYear": 1949,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcedd"
+  },
+  "title": "Eats, Shoots & Leaves",
+  "author": "Lynne Truss",
+  "category": "Language",
+  "isbn": "9781900002134",
+  "publicationYear": 2003,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcede"
+  },
+  "title": "The Language Instinct",
+  "author": "Steven Pinker",
+  "category": "Language",
+  "isbn": "9781900002141",
+  "publicationYear": 1994,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcedf"
+  },
+  "title": "Bird by Bird",
+  "author": "Anne Lamott",
+  "category": "Language",
+  "isbn": "9781900002158",
+  "publicationYear": 1994,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcee0"
+  },
+  "title": "On Writing",
+  "author": "Stephen King",
+  "category": "Language",
+  "isbn": "9781900002165",
+  "publicationYear": 2000,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcee1"
+  },
+  "title": "Politics and the English Language",
+  "author": "George Orwell",
+  "category": "Language",
+  "isbn": "9781900002172",
+  "publicationYear": 1946,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcee2"
+  },
+  "title": "The Sense of Style",
+  "author": "Steven Pinker",
+  "category": "Language",
+  "isbn": "9781900002189",
+  "publicationYear": 2014,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcee3"
+  },
+  "title": "Don’t Make Me Think",
+  "author": "Steve Krug",
+  "category": "Art & Design",
+  "isbn": "9781900002196",
+  "publicationYear": 2000,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcee4"
+  },
+  "title": "The Elements of Typographic Style",
+  "author": "Robert Bringhurst",
+  "category": "Art & Design",
+  "isbn": "9781900002202",
+  "publicationYear": 1992,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcee5"
+  },
+  "title": "Steal Like an Artist",
+  "author": "Austin Kleon",
+  "category": "Art & Design",
+  "isbn": "9781900002219",
+  "publicationYear": 2012,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcee6"
+  },
+  "title": "The Art Spirit",
+  "author": "Robert Henri",
+  "category": "Art & Design",
+  "isbn": "9781900002226",
+  "publicationYear": 1923,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcee7"
+  },
+  "title": "A Pattern Language",
+  "author": "Christopher Alexander",
+  "category": "Art & Design",
+  "isbn": "9781900002233",
+  "publicationYear": 1977,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcee8"
+  },
+  "title": "Interaction of Color",
+  "author": "Josef Albers",
+  "category": "Art & Design",
+  "isbn": "9781900002240",
+  "publicationYear": 1963,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcee9"
+  },
+  "title": "The Non-Designer’s Design Book",
+  "author": "Robin Williams",
+  "category": "Art & Design",
+  "isbn": "9781900002257",
+  "publicationYear": 1994,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceea"
+  },
+  "title": "Grid Systems in Graphic Design",
+  "author": "Josef Müller-Brockmann",
+  "category": "Art & Design",
+  "isbn": "9781900002264",
+  "publicationYear": 1981,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceeb"
+  },
+  "title": "Fermat’s Enigma",
+  "author": "Simon Singh",
+  "category": "Mathematics",
+  "isbn": "9781900002271",
+  "publicationYear": 1997,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceec"
+  },
+  "title": "The Man Who Knew Infinity",
+  "author": "Robert Kanigel",
+  "category": "Mathematics",
+  "isbn": "9781900002288",
+  "publicationYear": 1991,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceed"
+  },
+  "title": "A Mathematician’s Apology",
+  "author": "G. H. Hardy",
+  "category": "Mathematics",
+  "isbn": "9781900002295",
+  "publicationYear": 1940,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceee"
+  },
+  "title": "Euclid’s Elements",
+  "author": "Euclid",
+  "category": "Mathematics",
+  "isbn": "9781900002301",
+  "publicationYear": 300,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceef"
+  },
+  "title": "Calculus Made Easy",
+  "author": "Silvanus P. Thompson",
+  "category": "Mathematics",
+  "isbn": "9781900002318",
+  "publicationYear": 1910,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcef0"
+  },
+  "title": "Naked Statistics",
+  "author": "Charles Wheelan",
+  "category": "Mathematics",
+  "isbn": "9781900002325",
+  "publicationYear": 2012,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcef1"
+  },
+  "title": "How Not to Be Wrong",
+  "author": "Jordan Ellenberg",
+  "category": "Mathematics",
+  "isbn": "9781900002332",
+  "publicationYear": 2014,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcef2"
+  },
+  "title": "Linear Algebra Done Right",
+  "author": "Sheldon Axler",
+  "category": "Mathematics",
+  "isbn": "9781900002349",
+  "publicationYear": 1995,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcef3"
+  },
+  "title": "Freakonomics",
+  "author": "Steven D. Levitt & Stephen J. Dubner",
+  "category": "Business",
+  "isbn": "9781900002356",
+  "publicationYear": 2005,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcef4"
+  },
+  "title": "Capital in the Twenty-First Century",
+  "author": "Thomas Piketty",
+  "category": "Business",
+  "isbn": "9781900002363",
+  "publicationYear": 2013,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcef5"
+  },
+  "title": "Poor Economics",
+  "author": "Abhijit Banerjee & Esther Duflo",
+  "category": "Business",
+  "isbn": "9781900002370",
+  "publicationYear": 2011,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcef6"
+  },
+  "title": "Nudge",
+  "author": "Richard H. Thaler & Cass R. Sunstein",
+  "category": "Business",
+  "isbn": "9781900002387",
+  "publicationYear": 2008,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcef7"
+  },
+  "title": "The Lean Startup",
+  "author": "Eric Ries",
+  "category": "Business",
+  "isbn": "9781900002394",
+  "publicationYear": 2011,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcef8"
+  },
+  "title": "Zero to One",
+  "author": "Peter Thiel",
+  "category": "Business",
+  "isbn": "9781900002400",
+  "publicationYear": 2014,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcef9"
+  },
+  "title": "Good to Great",
+  "author": "Jim Collins",
+  "category": "Business",
+  "isbn": "9781900002417",
+  "publicationYear": 2001,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcefa"
+  },
+  "title": "The Innovator’s Dilemma",
+  "author": "Clayton M. Christensen",
+  "category": "Business",
+  "isbn": "9781900002424",
+  "publicationYear": 1997,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcefb"
+  },
+  "title": "The Intelligent Investor",
+  "author": "Benjamin Graham",
+  "category": "Business",
+  "isbn": "9781900002431",
+  "publicationYear": 1949,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcefc"
+  },
+  "title": "Influence",
+  "author": "Robert B. Cialdini",
+  "category": "Business",
+  "isbn": "9781900002448",
+  "publicationYear": 1984,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcefd"
+  },
+  "title": "Start with Why",
+  "author": "Simon Sinek",
+  "category": "Business",
+  "isbn": "9781900002455",
+  "publicationYear": 2009,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcefe"
+  },
+  "title": "Deep Work",
+  "author": "Cal Newport",
+  "category": "Business",
+  "isbn": "9781900002462",
+  "publicationYear": 2016,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfceff"
+  },
+  "title": "The 7 Habits of Highly Effective People",
+  "author": "Stephen R. Covey",
+  "category": "Business",
+  "isbn": "9781900002479",
+  "publicationYear": 1989,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf00"
+  },
+  "title": "Thinking in Systems",
+  "author": "Donella H. Meadows",
+  "category": "Business",
+  "isbn": "9781900002486",
+  "publicationYear": 2008,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf01"
+  },
+  "title": "The Black Swan",
+  "author": "Nassim Nicholas Taleb",
+  "category": "Business",
+  "isbn": "9781900002493",
+  "publicationYear": 2007,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf02"
+  },
+  "title": "Flow",
+  "author": "Mihaly Csikszentmihalyi",
+  "category": "Psychology",
+  "isbn": "9781900002509",
+  "publicationYear": 1990,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf03"
+  },
+  "title": "Quiet",
+  "author": "Susan Cain",
+  "category": "Psychology",
+  "isbn": "9781900002516",
+  "publicationYear": 2012,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf04"
+  },
+  "title": "Mindset",
+  "author": "Carol S. Dweck",
+  "category": "Psychology",
+  "isbn": "9781900002523",
+  "publicationYear": 2006,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf05"
+  },
+  "title": "Grit",
+  "author": "Angela Duckworth",
+  "category": "Psychology",
+  "isbn": "9781900002530",
+  "publicationYear": 2016,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf06"
+  },
+  "title": "Emotional Intelligence",
+  "author": "Daniel Goleman",
+  "category": "Psychology",
+  "isbn": "9781900002547",
+  "publicationYear": 1995,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf07"
+  },
+  "title": "Predictably Irrational",
+  "author": "Dan Ariely",
+  "category": "Psychology",
+  "isbn": "9781900002554",
+  "publicationYear": 2008,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf08"
+  },
+  "title": "The Body Keeps the Score",
+  "author": "Bessel van der Kolk",
+  "category": "Psychology",
+  "isbn": "9781900002561",
+  "publicationYear": 2014,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf09"
+  },
+  "title": "Drive",
+  "author": "Daniel H. Pink",
+  "category": "Psychology",
+  "isbn": "9781900002578",
+  "publicationYear": 2009,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf0a"
+  },
+  "title": "Blink",
+  "author": "Malcolm Gladwell",
+  "category": "Psychology",
+  "isbn": "9781900002585",
+  "publicationYear": 2005,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf0b"
+  },
+  "title": "Outliers",
+  "author": "Malcolm Gladwell",
+  "category": "Psychology",
+  "isbn": "9781900002592",
+  "publicationYear": 2008,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf0c"
+  },
+  "title": "The Happiness Hypothesis",
+  "author": "Jonathan Haidt",
+  "category": "Psychology",
+  "isbn": "9781900002608",
+  "publicationYear": 2006,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf0d"
+  },
+  "title": "Atomic Habits",
+  "author": "James Clear",
+  "category": "Psychology",
+  "isbn": "9781900002615",
+  "publicationYear": 2018,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf0e"
+  },
+  "title": "Matilda",
+  "author": "Roald Dahl",
+  "category": "Children",
+  "isbn": "9781900002622",
+  "publicationYear": 1988,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf0f"
+  },
+  "title": "Charlie and the Chocolate Factory",
+  "author": "Roald Dahl",
+  "category": "Children",
+  "isbn": "9781900002639",
+  "publicationYear": 1964,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf10"
+  },
+  "title": "Harry Potter and the Philosopher’s Stone",
+  "author": "J. K. Rowling",
+  "category": "Children",
+  "isbn": "9781900002646",
+  "publicationYear": 1997,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf11"
+  },
+  "title": "Alice’s Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "category": "Children",
+  "isbn": "9781900002653",
+  "publicationYear": 1865,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf12"
+  },
+  "title": "Peter Pan",
+  "author": "J. M. Barrie",
+  "category": "Children",
+  "isbn": "9781900002660",
+  "publicationYear": 1911,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf13"
+  },
+  "title": "The Wind in the Willows",
+  "author": "Kenneth Grahame",
+  "category": "Children",
+  "isbn": "9781900002677",
+  "publicationYear": 1908,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf14"
+  },
+  "title": "Winnie-the-Pooh",
+  "author": "A. A. Milne",
+  "category": "Children",
+  "isbn": "9781900002684",
+  "publicationYear": 1926,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf15"
+  },
+  "title": "Where the Wild Things Are",
+  "author": "Maurice Sendak",
+  "category": "Children",
+  "isbn": "9781900002691",
+  "publicationYear": 1963,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf16"
+  },
+  "title": "Anne of Green Gables",
+  "author": "L. M. Montgomery",
+  "category": "Children",
+  "isbn": "9781900002707",
+  "publicationYear": 1908,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf17"
+  },
+  "title": "The Secret Garden",
+  "author": "Frances Hodgson Burnett",
+  "category": "Children",
+  "isbn": "9781900002714",
+  "publicationYear": 1911,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf18"
+  },
+  "title": "Heidi",
+  "author": "Johanna Spyri",
+  "category": "Children",
+  "isbn": "9781900002721",
+  "publicationYear": 1881,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf19"
+  },
+  "title": "The Phantom Tollbooth",
+  "author": "Norton Juster",
+  "category": "Children",
+  "isbn": "9781900002738",
+  "publicationYear": 1961,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf1a"
+  },
+  "title": "Holes",
+  "author": "Louis Sachar",
+  "category": "Children",
+  "isbn": "9781900002745",
+  "publicationYear": 1998,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf1b"
+  },
+  "title": "Wonder",
+  "author": "R. J. Palacio",
+  "category": "Children",
+  "isbn": "9781900002752",
+  "publicationYear": 2012,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf1c"
+  },
+  "title": "Bridge to Terabithia",
+  "author": "Katherine Paterson",
+  "category": "Children",
+  "isbn": "9781900002769",
+  "publicationYear": 1977,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf1d"
+  },
+  "title": "Leaves of Grass",
+  "author": "Walt Whitman",
+  "category": "Poetry",
+  "isbn": "9781900002776",
+  "publicationYear": 1855,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf1e"
+  },
+  "title": "The Waste Land",
+  "author": "T. S. Eliot",
+  "category": "Poetry",
+  "isbn": "9781900002783",
+  "publicationYear": 1922,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf1f"
+  },
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "category": "Poetry",
+  "isbn": "9781900002790",
+  "publicationYear": 1667,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf20"
+  },
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri",
+  "category": "Poetry",
+  "isbn": "9781900002806",
+  "publicationYear": 1320,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf21"
+  },
+  "title": "Ariel",
+  "author": "Sylvia Plath",
+  "category": "Poetry",
+  "isbn": "9781900002813",
+  "publicationYear": 1965,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf22"
+  },
+  "title": "Howl and Other Poems",
+  "author": "Allen Ginsberg",
+  "category": "Poetry",
+  "isbn": "9781900002820",
+  "publicationYear": 1956,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf23"
+  },
+  "title": "The Odyssey",
+  "author": "Homer",
+  "category": "Poetry",
+  "isbn": "9781900002837",
+  "publicationYear": 700,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf24"
+  },
+  "title": "The Iliad",
+  "author": "Homer",
+  "category": "Poetry",
+  "isbn": "9781900002844",
+  "publicationYear": 750,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf25"
+  },
+  "title": "Beowulf",
+  "author": "Anonymous",
+  "category": "Poetry",
+  "isbn": "9781900002851",
+  "publicationYear": 1000,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf26"
+  },
+  "title": "Hamlet",
+  "author": "William Shakespeare",
+  "category": "Drama",
+  "isbn": "9781900002868",
+  "publicationYear": 1603,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf27"
+  },
+  "title": "Macbeth",
+  "author": "William Shakespeare",
+  "category": "Drama",
+  "isbn": "9781900002875",
+  "publicationYear": 1606,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf28"
+  },
+  "title": "Romeo and Juliet",
+  "author": "William Shakespeare",
+  "category": "Drama",
+  "isbn": "9781900002882",
+  "publicationYear": 1597,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf29"
+  },
+  "title": "A Midsummer Night’s Dream",
+  "author": "William Shakespeare",
+  "category": "Drama",
+  "isbn": "9781900002899",
+  "publicationYear": 1600,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf2a"
+  },
+  "title": "Death of a Salesman",
+  "author": "Arthur Miller",
+  "category": "Drama",
+  "isbn": "9781900002905",
+  "publicationYear": 1949,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf2b"
+  },
+  "title": "A Streetcar Named Desire",
+  "author": "Tennessee Williams",
+  "category": "Drama",
+  "isbn": "9781900002912",
+  "publicationYear": 1947,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf2c"
+  },
+  "title": "Waiting for Godot",
+  "author": "Samuel Beckett",
+  "category": "Drama",
+  "isbn": "9781900002929",
+  "publicationYear": 1953,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf2d"
+  },
+  "title": "A Doll’s House",
+  "author": "Henrik Ibsen",
+  "category": "Drama",
+  "isbn": "9781900002936",
+  "publicationYear": 1879,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf2e"
+  },
+  "title": "Pygmalion",
+  "author": "George Bernard Shaw",
+  "category": "Drama",
+  "isbn": "9781900002943",
+  "publicationYear": 1913,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf2f"
+  },
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "category": "Drama",
+  "isbn": "9781900002950",
+  "publicationYear": 1895,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf30"
+  },
+  "title": "Salt, Fat, Acid, Heat",
+  "author": "Samin Nosrat",
+  "category": "Cooking",
+  "isbn": "9781900002967",
+  "publicationYear": 2017,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf31"
+  },
+  "title": "Kitchen Confidential",
+  "author": "Anthony Bourdain",
+  "category": "Cooking",
+  "isbn": "9781900002974",
+  "publicationYear": 2000,
+  "description": "",
+  "totalCopies": 3,
+  "availableCopies": 3,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf32"
+  },
+  "title": "Mastering the Art of French Cooking",
+  "author": "Julia Child",
+  "category": "Cooking",
+  "isbn": "9781900002981",
+  "publicationYear": 1961,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf33"
+  },
+  "title": "The Omnivore’s Dilemma",
+  "author": "Michael Pollan",
+  "category": "Cooking",
+  "isbn": "9781900002998",
+  "publicationYear": 2006,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf34"
+  },
+  "title": "How to Cook Everything",
+  "author": "Mark Bittman",
+  "category": "Cooking",
+  "isbn": "9781900003001",
+  "publicationYear": 1998,
+  "description": "",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf35"
+  },
+  "title": "Into the Wild",
+  "author": "Jon Krakauer",
+  "category": "Travel",
+  "isbn": "9781900003018",
+  "publicationYear": 1996,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf36"
+  },
+  "title": "Into Thin Air",
+  "author": "Jon Krakauer",
+  "category": "Travel",
+  "isbn": "9781900003025",
+  "publicationYear": 1997,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf37"
+  },
+  "title": "A Walk in the Woods",
+  "author": "Bill Bryson",
+  "category": "Travel",
+  "isbn": "9781900003032",
+  "publicationYear": 1998,
+  "description": "",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf38"
+  },
+  "title": "Travels with Charley",
+  "author": "John Steinbeck",
+  "category": "Travel",
+  "isbn": "9781900003049",
+  "publicationYear": 1962,
+  "description": "",
+  "totalCopies": 2,
+  "availableCopies": 2,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf39"
+  },
+  "title": "Notes from a Small Island",
+  "author": "Bill Bryson",
+  "category": "Travel",
+  "isbn": "9781900003056",
+  "publicationYear": 1995,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 0,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf3a"
+  },
+  "title": "Shantaram",
+  "author": "Gregory David Roberts",
+  "category": "Travel",
+  "isbn": "9781900003063",
+  "publicationYear": 2003,
+  "description": "",
+  "totalCopies": 1,
+  "availableCopies": 1,
+  "isArchived": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.686Z"
+  }
+}]

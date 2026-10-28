@@ -1666,3 +1666,292 @@ body::before,
 }
 
 /* END MINERVA WALNUT AND BRASS v3 */
+/* Compact login and registration layout */
+.main:has(> .container > .auth-premium) {
+  padding-block: 16px 24px;
+}
+
+.auth-premium {
+  min-height: 0;
+  align-items: start;
+  gap: clamp(24px, 4vw, 56px);
+  padding-block: 0;
+}
+
+.auth-story {
+  padding-block: clamp(12px, 3vw, 36px) 0;
+}
+
+.auth-story h2 {
+  margin-top: 16px;
+  font-size: clamp(2rem, 4vw, 3.1rem);
+}
+
+.auth-story > p {
+  margin-top: 16px;
+}
+
+.auth-books {
+  margin-top: 24px;
+}
+
+.auth-card.panel {
+  min-width: 0;
+  padding: clamp(22px, 3vw, 32px);
+}
+
+.auth-card h1 {
+  margin-top: 0;
+  font-size: clamp(1.7rem, 2.6vw, 2rem);
+}
+
+.auth-card .sub {
+  margin: 8px 0 20px;
+}
+
+.auth-privacy {
+  margin-top: 16px;
+  padding-top: 12px;
+}
+
+/* Center password eye buttons */
+.auth-card .input-icon > .input {
+  display: block;
+  padding-right: 54px !important;
+}
+
+.auth-card .input-icon > button.btn {
+  top: 50% !important;
+  right: 2px !important;
+  transform: translateY(-50%);
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  min-height: 44px;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  border-radius: 9px;
+  background: transparent;
+  color: var(--ink-soft);
+  box-shadow: none;
+  line-height: 1;
+}
+
+.auth-card .input-icon > button.btn:hover {
+  background: var(--surface-2);
+  color: var(--ink);
+}
+
+.auth-card .input-icon > button.btn:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: -2px;
+}
+
+.auth-card .input-icon > button.btn > svg {
+  display: block;
+}
+
+@media (max-width: 680px) {
+  .main:has(> .container > .auth-premium) {
+    padding-top: 12px;
+  }
+
+  .auth-premium {
+    gap: 18px;
+  }
+
+  .auth-story {
+    padding: 0;
+  }
+
+  .auth-story h2 {
+    font-size: 1.8rem;
+    margin-top: 10px;
+  }
+
+  .auth-explore {
+    margin-top: 4px;
+    padding-block: 6px;
+  }
+}
+/* Homepage spacing */
+.main:has(> .container > .hero) {
+  padding-block: 20px 32px;
+}
+
+.hero {
+  padding-block: 12px 0;
+}
+
+.hero-grid {
+  align-items: center;
+  gap: clamp(24px, 4vw, 48px);
+}
+
+.hero-grid > * {
+  min-width: 0;
+}
+
+.hero .eyebrow {
+  margin-bottom: 14px;
+}
+
+.hero h1 {
+  font-size: clamp(2.2rem, 4.1vw, 3.5rem);
+  line-height: 1.07;
+  margin: 0;
+}
+
+.hero-lede {
+  margin-top: 16px;
+  font-size: clamp(1.0625rem, 1.3vw, 1.2rem);
+  line-height: 1.55;
+  max-width: 44ch;
+}
+
+.hero-search {
+  margin-top: 20px;
+  max-width: 100%;
+}
+
+.hero-search .input-icon {
+  min-width: 0;
+}
+
+.hero-search .input,
+.hero-search .btn {
+  min-height: 48px;
+}
+
+.hero-search .input {
+  display: block;
+}
+
+.hero-cta {
+  margin-top: 14px;
+}
+
+/* Keep the bookshelf within its column */
+.hero .shelf-wrap {
+  width: 100%;
+  max-width: 100%;
+  align-self: center;
+}
+
+.hero .shelf {
+  min-height: 240px;
+  padding: 20px 12px 0;
+  justify-content: flex-start;
+  overflow-x: auto;
+  overflow-y: hidden;
+  overscroll-behavior-x: contain;
+  scrollbar-width: thin;
+  scrollbar-color: var(--primary) var(--surface-2);
+}
+
+.hero .shelf .spine {
+  height: clamp(145px, var(--h), 215px);
+}
+
+.hero .shelf-caption {
+  margin-top: 10px;
+  line-height: 1.5;
+}
+
+/* Bring the following sections closer */
+.hero ~ .section {
+  padding-top: 32px;
+}
+
+@media (max-width: 900px) {
+  .hero-grid {
+    gap: 24px;
+  }
+}
+
+@media (max-width: 540px) {
+  .main:has(> .container > .hero) {
+    padding-top: 12px;
+  }
+
+  .hero {
+    padding-top: 8px;
+  }
+}
+/* Compact library toolbar */
+:root .lib .lib-hud {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+  padding: 6px 12px;
+}
+
+/* Hide toolbar stairs buttons */
+:root .lib .lib-hud .floor-step {
+  display: none;
+}
+
+:root .lib .lib-hud .hud-floor-nav {
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0;
+}
+
+/* Keep filters compact */
+:root .lib .lib-hud .lib-filter {
+  display: flex;
+  flex: 0 1 auto;
+  flex-wrap: wrap;
+  width: auto;
+  max-width: 100%;
+  gap: 8px;
+}
+
+:root .lib .lib-hud .lib-filter .select {
+  flex: 0 1 152px;
+  width: 152px;
+  min-width: 0;
+  max-width: 100%;
+  min-height: 44px;
+  padding: 8px 32px 8px 12px;
+  font-size: 0.875rem;
+  border-radius: 10px;
+  text-overflow: ellipsis;
+}
+
+:root .lib .lib-hud .lib-filter .select:nth-of-type(2) {
+  flex-basis: 176px;
+  width: 176px;
+}
+
+/* Search stays on the right */
+:root .lib .lib-hud .finder {
+  flex: 1 1 200px;
+  width: auto;
+  max-width: 300px;
+  margin-left: auto;
+}
+
+/* Compact arrangement on phones */
+@media (max-width: 600px) {
+  :root .lib .lib-hud .finder {
+    order: 1;
+    flex: 1 1 150px;
+    max-width: none;
+  }
+
+  :root .lib .lib-hud .lib-filter {
+    order: 2;
+    flex: 1 0 100%;
+    width: 100%;
+  }
+
+  :root .lib .lib-hud .lib-filter .select,
+  :root .lib .lib-hud .lib-filter .select:nth-of-type(2) {
+    flex: 1 1 0;
+    width: 0;
+  }
+}

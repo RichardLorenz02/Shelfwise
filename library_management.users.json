@@ -1,0 +1,352 @@
+[{
+  "_id": {
+    "$oid": "6ae09f5003506f2a80bfcde5"
+  },
+  "name": "Library Admin",
+  "email": "admin@library.test",
+  "passwordHash": "$2a$12$tCoFR3H2HCar.S3LKnMmPuEDyLm/37XMdTY4jiQbSI5G76JvvfU4K",
+  "role": "admin",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:44.048Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:44.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5003506f2a80bfcde7"
+  },
+  "name": "Quinn Reader",
+  "email": "reader@library.test",
+  "passwordHash": "$2a$12$7ILwV5TmUh52qFwp16VGU.msDExyWH1KUi/.ekuCW2UVa4FY5Hx.C",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:44.645Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:44.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5103506f2a80bfcde9"
+  },
+  "name": "Mika Santos",
+  "email": "mika@library.test",
+  "passwordHash": "$2a$12$VtNNDuIHl2IDXgbFmF4JQehhi6eU7Bkz2uY1wsh.wWNm87FnlcOyW",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:45.123Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:45.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5103506f2a80bfcdeb"
+  },
+  "name": "Paolo Reyes",
+  "email": "paolo@library.test",
+  "passwordHash": "$2a$12$hReB3EczNE0KFhnLk9QwZuHR1bVnTtC.D1/n4cyjLATNvVH.gLvTS",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:45.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:45.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5103506f2a80bfcded"
+  },
+  "name": "Ana Villanueva",
+  "email": "ana@library.test",
+  "passwordHash": "$2a$12$wZQsXcemNp.Nyg5NF.EcZ.EH3uVAIQ0w6ZN6h6g8aR1QTz9ENJ3nO",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:45.900Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:45.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcdef"
+  },
+  "name": "Jon Cruz",
+  "email": "jon@library.test",
+  "passwordHash": "$2a$12$BxUDqpZqabiWN3dJ5i6WsudK0DLCmddyU9N11YfFCeOf.N8ZHb0US",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.218Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcdf1"
+  },
+  "name": "Sam Lopez",
+  "email": "member01@library.test",
+  "passwordHash": "$2a$12$qpQMVOs4YSxjLhFjwBYTje8gOY10mfXD94rOJDrfwKbQEcgWNHbne",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.610Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcdf3"
+  },
+  "name": "Bea Navarro",
+  "email": "member02@library.test",
+  "passwordHash": "$2a$12$qpQMVOs4YSxjLhFjwBYTje8gOY10mfXD94rOJDrfwKbQEcgWNHbne",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.613Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcdf5"
+  },
+  "name": "Carlo Mendoza",
+  "email": "member03@library.test",
+  "passwordHash": "$2a$12$qpQMVOs4YSxjLhFjwBYTje8gOY10mfXD94rOJDrfwKbQEcgWNHbne",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.614Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcdf7"
+  },
+  "name": "Dina Aquino",
+  "email": "member04@library.test",
+  "passwordHash": "$2a$12$qpQMVOs4YSxjLhFjwBYTje8gOY10mfXD94rOJDrfwKbQEcgWNHbne",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.617Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcdf9"
+  },
+  "name": "Enzo Bautista",
+  "email": "member05@library.test",
+  "passwordHash": "$2a$12$qpQMVOs4YSxjLhFjwBYTje8gOY10mfXD94rOJDrfwKbQEcgWNHbne",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.622Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcdfb"
+  },
+  "name": "Faye Castillo",
+  "email": "member06@library.test",
+  "passwordHash": "$2a$12$qpQMVOs4YSxjLhFjwBYTje8gOY10mfXD94rOJDrfwKbQEcgWNHbne",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.624Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcdfd"
+  },
+  "name": "Gio Ramos",
+  "email": "member07@library.test",
+  "passwordHash": "$2a$12$qpQMVOs4YSxjLhFjwBYTje8gOY10mfXD94rOJDrfwKbQEcgWNHbne",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.625Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcdff"
+  },
+  "name": "Hana Dizon",
+  "email": "member08@library.test",
+  "passwordHash": "$2a$12$qpQMVOs4YSxjLhFjwBYTje8gOY10mfXD94rOJDrfwKbQEcgWNHbne",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce01"
+  },
+  "name": "Ian Torres",
+  "email": "member09@library.test",
+  "passwordHash": "$2a$12$qpQMVOs4YSxjLhFjwBYTje8gOY10mfXD94rOJDrfwKbQEcgWNHbne",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.629Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce03"
+  },
+  "name": "Jade Flores",
+  "email": "member10@library.test",
+  "passwordHash": "$2a$12$qpQMVOs4YSxjLhFjwBYTje8gOY10mfXD94rOJDrfwKbQEcgWNHbne",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.630Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce05"
+  },
+  "name": "Kai Salazar",
+  "email": "member11@library.test",
+  "passwordHash": "$2a$12$qpQMVOs4YSxjLhFjwBYTje8gOY10mfXD94rOJDrfwKbQEcgWNHbne",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.632Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfce07"
+  },
+  "name": "Lia Soriano",
+  "email": "member12@library.test",
+  "passwordHash": "$2a$12$qpQMVOs4YSxjLhFjwBYTje8gOY10mfXD94rOJDrfwKbQEcgWNHbne",
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.634Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae09f5203506f2a80bfcf59"
+  },
+  "name": "Rey Overdue",
+  "email": "overdue@library.test",
+  "passwordHash": "$2a$12$qpQMVOs4YSxjLhFjwBYTje8gOY10mfXD94rOJDrfwKbQEcgWNHbne",
+  "role": "user",
+  "accountStatus": "suspended",
+  "suspensionReason": "overdue",
+  "suspendedAt": {
+    "$date": "2026-10-26T12:55:46.637Z"
+  },
+  "appeal": {
+    "message": "I was away for work and could not return these on time. I have the books with me and will bring them back this week.",
+    "submittedAt": {
+      "$date": "2026-10-27T12:55:46.772Z"
+    },
+    "status": "pending"
+  },
+  "createdAt": {
+    "$date": "2026-10-27T12:55:46.774Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T12:55:46.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae0af8e46cdf1e6dcb287f9"
+  },
+  "name": "RICHARD LORENZ PEREZ",
+  "email": "richard_lorenz_perez@dlsl.edu.ph",
+  "passwordHash": "$2a$12$xtkXABUM1FVI/.lTkl5EQOKjnkBDHhuWM6cQLr5l1O0uC6ZDbGsAm",
+  "sessionVersion": 1,
+  "role": "user",
+  "accountStatus": "active",
+  "createdAt": {
+    "$date": "2026-10-27T14:05:02.539Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T14:07:36.304Z"
+  },
+  "__v": 0
+}]
